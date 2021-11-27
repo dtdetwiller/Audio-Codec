@@ -1,6 +1,6 @@
 /*
  * ASIF demuxer
- * Authors: Daniel Detwiller & Clarence Park
+ * Authors: Daniel Detwiller
  * Version: 0.0.1
  * Date: 4/21/2020
  */
